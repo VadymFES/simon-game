@@ -27,5 +27,7 @@ To install and play the game, follow these steps:
 
 2. Open the ``` index.html ``` file in your web browser to start the game.
 
+Alternatively, you can access the live version of the web application by clicking on the following link: https://vadymfes.github.io/simon-game
+
 ## Credits
 The game is created by Vadym Fesiuk. The original game concept and design are by Ralph H. Baer and Howard J. Morrison.
